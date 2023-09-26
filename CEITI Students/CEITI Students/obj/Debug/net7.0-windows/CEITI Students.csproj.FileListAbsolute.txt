@@ -1,0 +1,33 @@
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.csproj.AssemblyReference.cache
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI_Students.MainForm.resources
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.csproj.GenerateResource.cache
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.AssemblyInfoInputs.cache
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.AssemblyInfo.cs
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.csproj.CoreCompileInputs.cache
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\CEITI Students.exe
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\CEITI Students.deps.json
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\CEITI Students.runtimeconfig.json
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\CEITI Students.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\CEITI Students.pdb
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\FireSharp.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\System.Net.Http.Extensions.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\System.Net.Http.Primitives.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.csproj.CopyComplete
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\refint\CEITI Students.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.pdb
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI Students.genruntimeconfig.cache
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\ref\CEITI Students.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\bin\Debug\net7.0-windows\ro-RO\CEITI Students.resources.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI_Students.Acasă.resources
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI_Students.Properties.Resources.resources
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI_Students.MainForm.ro-RO.resources
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\ro-RO\CEITI Students.resources.dll
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI_Students.AdaugăElev.resources
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI_Students.ListaElevilor.resources
+C:\Users\GOLIAT\Desktop\CEITI Students\CEITI Students\obj\Debug\net7.0-windows\CEITI_Students.EditeazăElev.resources
