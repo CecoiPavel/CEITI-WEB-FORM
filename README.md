@@ -1,4 +1,4 @@
-# Simple CRUD Web Form App in C#
+# Simple CRUD Windows Form in C#
 
 This repository contains a basic CRUD (Create, Read, Update, Delete) web form application written in C#. This project is intended to showcase my fundamental knowledge of C# programming and web development. 
 
